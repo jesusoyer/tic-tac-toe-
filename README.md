@@ -1,5 +1,6 @@
 # Tic-Tac-Toe Game
-![Tic tac toe image](https://github.com/jesusoyer/tic-tac-toe-/assets/88277371/4c88afc1-4c0f-4087-8aa9-b423cb8a8226)
+
+![Tic tac toe image](https://github.com/jesusoyer/tic-tac-toe-/assets/88277371/bf463828-2475-4ae3-b137-c569947e1c13)
 
 
 
